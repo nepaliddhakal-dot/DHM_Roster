@@ -1,0 +1,14 @@
+{
+  "name": "MFD Duty Roster",
+  "short_name": "MFD Roster",
+  "start_url": "/DHM_Roster/",
+  "scope": "/DHM_Roster/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#00d4aa",
+  "icons": [
+    { "src": "/DHM_Roster/icon-96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/DHM_Roster/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/DHM_Roster/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
